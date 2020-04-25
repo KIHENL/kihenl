@@ -1,0 +1,43 @@
+<html>
+
+<table>КАНАЛ</table>
+
+
+           </h4> <b> <center>САЙТ КАНАЛА KIHENL</center> </b> </h4>
+
+<table border="1">
+<tr>
+<td rowspan="2">НАШ КАНАЛ</td>
+<td> МУЗЫКА ^ </td>
+</tr>
+<tr>
+<td>ВИДЕО ^ </td>
+<tr>
+<td> VLOG ^ </td>
+</tr>
+</table>
+                                                               
+У нас вы найдёте:
+<br /> 
+<p><font color="green">
+Видео на различные тематики,и многое другое. Переходи и подписывайся!</font></p>
+
+
+<head>
+<a class="button" href="http://instagram.com/kihenl" target="_blank">Наш инстаграм</a>
+       <title>     KIHENL         </title>
+<br><center><a class="button" href="http://vk.com/kihenl" target="_blank">Перейти на официальную страничку в вк
+</a></center></br>
+<br><center><a class="button" href="<br><center><a class="button" href="http://vk.com/kihenl" target="_blank">Перейти на официальную страничку в вк
+<br><center><a class="button" href="https://www.youtube.com/channel/UCX-uiiQX-oYsCZtuH9kdkZA" target="_blank">ЮТУБ КАНАЛ</a></center></br>
+
+<style>
+      
+      
+    </style>
+  </head>
+ 
+  <body>
+ 
+  </body>
+</html>
